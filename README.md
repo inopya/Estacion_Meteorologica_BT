@@ -1,22 +1,18 @@
 # Estacion_Meteorologica_BT
 
-/*
-//##########################################################
-//# ****************************************************** #
-//# *           DOMOTICA PARA PRINCIPIANTES              * #
-//# *   EST. METEO. con BT y almacenamiento en EEPROM    * #
-//# *         (acceso al SENSOR DHT11 sin libreria)      * #
-//# *                                                    * #
-//# *            Autor: Eulogio López Cayuela            * #
-# *                                                    * #
-# *          Versión 2.1     Fecha: 21/01/2017         * #
-# ****************************************************** #
-##########################################################
-*/
+EST. METEO. con BT y almacenamiento en EEPROM
 
-/*   
-    NOTAS SOBRE ESTA VERSION
-    
+Autor: Eulogio López Cayuela
+
+Versión 2.1     Fecha: 21/01/2017
+ 
+ Version evolucionanda de "Estacion Meteo Simple"
+ con sensor de humedad DTH11 (usado sin libreria)
+ Eliminadorespecto a la version 2.0 la funcionalidad para el calculo de sensacion termica
+ 
+ 
+ NOTAS SOBRE ESTA VERSION
+  
     ===== OPCIONES DISPONIBLES ===== 
  - Muestra datos completos por BT 
  - Muestra datos simplificados en el LCD (presion relativa, temperatura y humedad)
@@ -41,4 +37,4 @@
     almacenar datos o no en la EEPROM, protegiendola de escrituras innecesarias.
  - AÑADIDA rutina para la prediccon de tiempo a unas cuantas (3) horas vista (basadas en tendencias de presion)
  - AÑADIDA bandera para el control y registro de temperaturas max y min
-*/
+
