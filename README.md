@@ -1,13 +1,13 @@
 # Estacion_Meteorologica_BT
 
-
+/*
 //##########################################################
 //# ****************************************************** #
-# *           DOMOTICA PARA PRINCIPIANTES              * #
-# *   EST. METEO. con BT y almacenamiento en EEPROM    * #
-# *         (acceso al SENSOR DHT11 sin libreria)      * #
-# *                                                    * #
-# *            Autor: Eulogio López Cayuela            * #
+//# *           DOMOTICA PARA PRINCIPIANTES              * #
+//# *   EST. METEO. con BT y almacenamiento en EEPROM    * #
+//# *         (acceso al SENSOR DHT11 sin libreria)      * #
+//# *                                                    * #
+//# *            Autor: Eulogio López Cayuela            * #
 # *                                                    * #
 # *          Versión 2.1     Fecha: 21/01/2017         * #
 # ****************************************************** #
