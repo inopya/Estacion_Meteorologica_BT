@@ -7,7 +7,8 @@ Autor: Eulogio López Cayuela
 Versión 2.1     Fecha: 21/01/2017
  
  Version evolucionanda de "Estacion Meteo Simple"
- con sensor de humedad DTH11 (usado sin libreria)\n
+ con sensor de humedad DTH11 (usado sin libreria)
+ 
  Eliminadorespecto a la version 2.0 la funcionalidad para el calculo de sensacion termica
  
  
